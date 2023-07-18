@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/modele/Depensedetails.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/web/WEB-INF/jsp/Crud_Patient.jsp</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/web/WEB-INF/jsp/Crud_Actepatient.jsp</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/pdf/Pdf.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/web/WEB-INF/jsp/DetailsActePatient.jsp</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/web/WEB-INF/jsp/Crud_Depensedetails.jsp</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/web/WEB-INF/jsp/login.jsp</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/controller/ControlleurCrudGeneraliser.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/modele/Acte.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/utilitaire/Utilitaire.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/connectBase/ConnectBase.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/modele/Sexe.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/modele/Patient.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/controller/AllController.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/web/WEB-INF/jsp/Crud_Depense.jsp</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/dao/DaoGeneric.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/xml/input.xml</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/base.sql</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/modele/V_actepatientdep.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/web/WEB-INF/jsp/navbarAdmin.jsp</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/modele/Depense.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/web/WEB-INF/jsp/navbarUser.jsp</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/controller/CrudGeneraliser.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/modele/Actepatient.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/web/WEB-INF/jsp/Crud_Acte.jsp</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/src/java/modele/Tableau_de_board.java</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/web/WEB-INF/jsp/AcceuilAdmin.jsp</file>
+            <file>file:/C:/Users/Rabeasimbola/Documents/NetBeansProjects/Clinique2.0/web/WEB-INF/jsp/AcceuilUtilisateur.jsp</file>
+        </group>
+    </open-files>
+</project-private>

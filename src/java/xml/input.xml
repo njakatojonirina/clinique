@@ -1,0 +1,31 @@
+<link rel="stylesheet" type="text/css" href="C:\Users\Rabeasimbola\Documents\NetBeansProjects\Clinique2.0\web\assets\csspdf\style.css" />
+
+<center><h2>Facture</h2></center>
+<h3>Date : 16 juillet 2023</h3>
+<p>Facture numero  : 0015</p>
+<p>Nom Client   : Tojoniaina</p>
+<p>...</p>
+<table style='margin-top:"10px";' class="table" border="1">
+<thead>
+<tr>
+<th>
+Acte
+</th>
+<th>
+Tarif
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Consultation</td>
+<td>20 000,00</td>
+</tr>
+<tr>
+<td>Medicament</td>
+<td>2 000,00</td>
+</tr>
+</tbody>
+</table>
+<h3 style="text-align:'left' " >Total : 22 000,00 Ar
+</h3>
